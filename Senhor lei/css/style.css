@@ -1,0 +1,27 @@
+body {
+    font-family: verdana;
+    
+}
+
+.topo {
+    font-size: 19px;
+    font-weight: bold;
+    margin-left: 350px;
+}
+
+.banner  {
+    background-image: url('../img/capa.jpg');
+    background-size: cover;
+    height: 350px;  
+}
+
+.banner h1, h2 {
+    margin-left: 650px;
+    padding-top: 30px;
+    font-size: 21px;
+    font-weight: bold;
+    
+    
+}
+
+
